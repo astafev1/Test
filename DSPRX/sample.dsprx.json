@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "id": "p_demo_001",
+  "name": "Demo \u00b7 Paris WG",
+  "protocol": "wireguard",
+  "endpoint": "1.2.3.4:51820",
+  "dns": [
+    "1.1.1.1",
+    "1.0.0.1"
+  ],
+  "features": {
+    "splitTunneling": true,
+    "killSwitch": true,
+    "adBlock": false
+  }
+}
